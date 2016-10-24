@@ -1,0 +1,124 @@
+.together {
+  width: 800px;
+}
+.layout {
+  height: 640px;
+  overflow: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.main {
+  background-color: #ffffff;
+  width: 650px;
+  font: 12px Arial;
+  color: #000;
+  padding: 10px;
+  line-height: 14px;
+  float: left;
+  height: 640px;
+  overflow: hidden;
+}
+.title {
+  font: 25px Arial;
+  color: #000;
+}
+.h1 {
+  background-color: #CCAAFF;
+  font: 25px Arial;
+  font-weight: bold;
+  color: #000;
+  padding: 10px;
+  line-height: 14px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.h2 {
+  background-color: #CCCCFF;
+  font: 25px Arial;
+  font-weight: bold;
+  color: #000;
+  padding: 10px;
+  line-height: 14px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.h3 {
+  background-color: #CCFFFF;
+  font: 25px Arial;
+  font-weight: bold;
+  color: #000;
+  padding: 10px;
+  line-height: 14px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.navi {
+  float: left;
+  margin-top: 0px;
+}
+.sf, .object, p, table {
+  display: none;
+}
+body {
+    background: #CCAAFF; 
+    background: -webkit-linear-gradient(#CCAAFF, #CCFFFF); 
+    background: -o-linear-gradient(#CCAAFF, #CCFFFF); 
+    background: -moz-linear-gradient(#CCAAFF, #CCFFFF); 
+    background: linear-gradient(#CCAAFF, #CCFFFF); 
+}
+b {
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0px;
+}
+i {
+
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0px;
+}
+a:link, a:active, a:visited, a {
+  color: #CCAAFF;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover b, a:hover {
+  color: #CCCCFF;
+}
+#nav a:link, #nav a:visited, #nav a:active {
+  color: #000;
+  background-color: #CCAAFF;
+  text-align: center;
+  display: block;
+  font-size: 20px;
+  width: 100px;
+  height: 47px;
+  line-height: 47px;
+  text-decoration: none;
+  font-family: Arial;
+  font-weight: bold;
+  margin: 2px;
+  padding: 10px;
+}
+#nav a:hover {
+  border-bottom: 0px dashed #fff;
+  background: #CCAAFF; 
+  background: -webkit-linear-gradient(#CCAAFF, #CCFFFF); 
+  background: -o-linear-gradient(#CCAAFF, #CCFFFF); 
+  background: -moz-linear-gradient(#CCAAFF, #CCFFFF); 
+  background: linear-gradient(#CCAAFF, #CCFFFF); 
+  color: #ffffff;
+  text-align: right;
+  text-decoration: none;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+
+
+
